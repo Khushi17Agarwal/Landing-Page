@@ -1,9 +1,10 @@
 # Travel Bliss Landing Page
-**Description**
+**Description-**
+
 This project is a responsive landing page for a travel website called "Travel Bliss." It features a clean, modern design with a navigation bar, a search form, and a motivational quote. The page is styled using CSS and includes Google Fonts for enhanced typography.
 
 
-**Technologies Used**
+**Technologies Used-**
 
 **HTML5:** Structure of the webpage.
 
@@ -12,7 +13,7 @@ This project is a responsive landing page for a travel website called "Travel Bl
 **Google Fonts:** Custom fonts for improved aesthetics.
 
 
-**Features**
+**Features-**
 
 **Navigation Bar:** Links to Hotels, Flights, Tours, and a Register/Log In button.
 
