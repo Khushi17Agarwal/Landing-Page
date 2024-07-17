@@ -4,13 +4,20 @@ This project is a responsive landing page for a travel website called "Travel Bl
 
 
 **Technologies Used**
+
 **HTML5:** Structure of the webpage.
+
 **CSS3:** Styling and layout, including responsive design.
+
 **Google Fonts:** Custom fonts for improved aesthetics.
 
 
 **Features**
+
 **Navigation Bar:** Links to Hotels, Flights, Tours, and a Register/Log In button.
+
 **Search Form:** Allows users to search for their next destination.
+
 **Responsive Design:** Adapts to different screen sizes for optimal viewing on various devices.
+
 **Background Image:** A fixed background image that enhances the visual appeal.
