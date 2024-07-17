@@ -1,11 +1,11 @@
-![Screenshot 2024-07-17 182104](https://github.com/user-attachments/assets/e875676b-df6a-4d5e-b4e9-24b184058aa5)# Travel Bliss Landing Page
+![Screenshot 2024-07-17 182104](https://github.com/user-attachments/assets/e875676b-df6a-4d5e-b4e9-24b184058aa5)
+
+# Travel Bliss Landing Page
+
+
 **Description-**
 
 This project is a responsive landing page for a travel website called "Travel Bliss." It features a clean, modern design with a navigation bar, a search form, and a motivational quote. The page is styled using CSS and includes Google Fonts for enhanced typography.
-
-![image](https://khushi17agarwal.github.io/Landing-Page/assets/![Uploading Screenshot 2024-07-17 182104.png…])
-)
-
 
 
 **Technologies Used-**
