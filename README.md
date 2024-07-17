@@ -22,3 +22,5 @@ This project is a responsive landing page for a travel website called "Travel Bl
 **Responsive Design:** Adapts to different screen sizes for optimal viewing on various devices.
 
 **Background Image:** A fixed background image that enhances the visual appeal.
+
+
