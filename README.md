@@ -1,6 +1,6 @@
-![Screenshot 2024-07-17 182104](https://github.com/user-attachments/assets/e875676b-df6a-4d5e-b4e9-24b184058aa5)
-
 # Travel Bliss Landing Page
+
+![Screenshot 2024-07-17 182104](https://github.com/user-attachments/assets/e875676b-df6a-4d5e-b4e9-24b184058aa5)
 
 
 **Description-**
